@@ -27,7 +27,7 @@ public class TypeCastDemo {
 
 			catch(NumberFormatException ne) {
 				System.out.println("Enter Numbers only");
-				gotNumbers = false;
+				
 			}
 		}
 
